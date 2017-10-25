@@ -8,4 +8,4 @@ ImageNet是计算机视觉的学术基础。连续性的模型持续在展示提
 
 Inception-v3是用来训练ImageNet大型视觉识别挑战的，使用的是从2012以来的数据。这是计算机视觉中标准的任务，模型是用来将全部的图像分成1000个类，例如"斑马","斑点狗"和"洗碗机"。举个例子，下面是AlexNet用来分类一些图片的结果
 
-![AlexClassification](git_project/tensorflow-tutorials/AlexClassification.png)
+![AlexClassification](https://github.com/kunmei/tensorflow-tutorials/blob/master/AlexClassification.png)
