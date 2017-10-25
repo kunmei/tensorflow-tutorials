@@ -10,4 +10,4 @@ Inception-v3是用来训练ImageNet大型视觉识别挑战的，使用的是从
 
 ![AlexClassification](https://github.com/kunmei/tensorflow-tutorials/blob/master/AlexClassification.png)
 
-<div align=center><img width="150" height="150" src="https://github.com/kunmei/tensorflow-tutorials/blob/master/AlexClassification.png"/>
+<div align=center><img width="450" height="250" src="https://github.com/kunmei/tensorflow-tutorials/blob/master/AlexClassification.png"/>
