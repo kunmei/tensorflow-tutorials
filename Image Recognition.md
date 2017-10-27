@@ -8,11 +8,10 @@ ImageNet是计算机视觉的学术基础。连续性的模型持续在展示提
 
 Inception-v3是用来训练ImageNet大型视觉识别挑战的，使用的是从2012以来的数据。这是计算机视觉中标准的任务，模型是用来将全部的图像分成1000个类，例如"斑马","斑点狗"和"洗碗机"。举个例子，下面是AlexNet用来分类一些图片的结果
 
-<div align=center><img width="450" height="250" src="https://github.com/kunmei/tensorflow-tutorials/blob/master/AlexClassification.png" alt='AlexClassification'/>
+<img width="450" height="250" src="https://github.com/kunmei/tensorflow-tutorials/blob/master/AlexClassification.png" alt='AlexClassification'/>
 
 为了比较模型，我们检查模型预测排名前五的错误率-命名为"top-5 error rate"。
-<a href="http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf">AlexNet</a>在2012的验证集上面top5的错误率为15.3%；
-<a href="http://arxiv.org/abs/1409.4842">Inception (GoogLeNet)</a>错误率为6.67%；<a href="http://arxiv.org/abs/1502.03167">BN-Inception-v2</a>错误率为4.9%；
+<a href="http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf">AlexNet</a>在2012的验证集上面top5的错误率为15.3%；<a href="http://arxiv.org/abs/1409.4842">Inception (GoogLeNet)</a>错误率为6.67%；<a href="http://arxiv.org/abs/1502.03167">BN-Inception-v2</a>错误率为4.9%；
 <a href="https://arxiv.org/abs/1512.00567">Inception-v3</a>错误率为3.46%。
 
 人类在ImageNet的挑战是多少？Andrej Karpathy他自己进行了尝试，写了博客
