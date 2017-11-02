@@ -44,6 +44,3 @@ earthstar (score = 0.00127)
 如果你将提供其他JPEG图像，你可以编辑**--image_file**参数。
 
 如果你将模型数据下载到不同的目录，你可以指定**--model_dir**到已经使用的目录。
-
-<img src="/cgi-bin/mathtex.cgi?f(x)=\int_{-\infty}^xe^{-t^2}dt"
- alt="" border=0 align="middle">
